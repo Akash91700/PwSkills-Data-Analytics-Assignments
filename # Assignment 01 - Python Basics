@@ -1,0 +1,24 @@
+## 1. Variables and Data Types
+Write a program to swap two variables without using a third variable.
+
+## 2. Input and Output
+Take a user's name and age as input and print:
+"Hello [Name], you will turn 100 years old in [Year]."
+
+## 3. Conditional Statements
+Write a program to check if a number is positive, negative, or zero.
+
+## 4. Loops
+Print all numbers from 1 to 50 divisible by both 3 and 5.
+
+## 5. String Manipulation
+Check whether a given string is a palindrome.
+
+## 6. Basic Operations
+Find the second largest number in a list.
+
+## 7. List Comprehension
+Create a list of even numbers from 1 to 100 using list comprehension.
+
+## 8. Sorting and Searching
+Sort a list of strings alphabetically and search for a specific string.
