@@ -1,4 +1,4 @@
-# Assignment 05 - Lambda Functions, Modules and Exception Handling
+# Assignment 04 - Lambda Functions, Modules and Exception Handling
 
 ## Overview
 This assignment focuses on advanced Python concepts including lambda functions, module usage, and structured exception handling. It strengthens problem-solving skills and code reusability practices.
